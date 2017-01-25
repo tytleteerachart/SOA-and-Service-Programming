@@ -9,4 +9,4 @@ KMITL - Microservices Course
 
 #### Assignment 2:
 
-* Building Maven project with Spring Boot Framework
+* Database Transaction with Spring Boot framework
