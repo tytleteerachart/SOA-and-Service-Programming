@@ -1,0 +1,1 @@
+﻿getAll(); from DB with Spring
