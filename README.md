@@ -10,3 +10,7 @@ KMITL - Microservices Course
 #### Assignment 2:
 
 * Database Transaction with Spring Boot framework
+
+#### Assignment 4:
+
+* KMITL Residence Service Design
