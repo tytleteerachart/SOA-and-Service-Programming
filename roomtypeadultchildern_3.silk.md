@@ -2,7 +2,7 @@
 
 This can be run with `silk -silk.url="http://128.199.122.210:9001"`
 
-## `GET /rooms/types?adults=2children=1`
+## `GET /rooms/types?adults=2&children=1`
 
 Perform a find room type information with adult `2` and childern `1`.
 
